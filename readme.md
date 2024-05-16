@@ -23,7 +23,7 @@ Can you help her calculate her costs?
 
 Return the value of what she should be paying.
 
-### Exercise #3.2
+### 
 
 #### Part 1
 
